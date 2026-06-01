@@ -18,7 +18,7 @@ AI collapsed the cost of building. The thinking that turns a rough idea into som
 
 ScopeMap closes that gap. Describe an idea in plain language and ScopeMap turns it into a structured, prioritised scope you own and can hand off to anything: an AI coding tool, or an engineering team. It sits above the build tools and feeds them rather than competing with them. Portable and tool-agnostic by design.
 
-Think of it as an extra PM muscle, on tap. Sophisticated enough for corporate teams, simple enough for everyone else to build products without one.
+Think of it as an extra product person, on tap. Sophisticated enough for corporate teams, simple enough for everyone else to build products without one.
 
 ## Who it's for
 
