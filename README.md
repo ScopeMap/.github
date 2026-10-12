@@ -1,12 +1,15 @@
 <div align="center">
 
-<!-- Logo: drop your hosted mark here once you have one -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://scopemap.io/images/logo-dark.svg">
+  <img src="https://scopemap.io/images/logo.svg" alt="ScopeMap" width="72">
+</picture>
 
 # ScopeMap
 
-### Think it. Build it.
+### The mapping tool for people who want to build products.
 
-**The mapping tool for people who want to build products.**
+**[scopemap.io](https://scopemap.io)** · Live, free to try.
 
 </div>
 
@@ -30,11 +33,17 @@ Two different people. The same missing capability.
 
 ## How it works
 
-1. **Drop a rough idea.** Paste it, upload it, or just describe it.
+1. **Drop a rough idea.** Paste it or just describe it.
 2. **Answer the sharp questions.** ScopeMap asks the clarifying questions a senior PM would ask, the ones that surface the real decisions hiding in your idea.
-3. **Get a scope worth a week of work.** Features sorted into Must, Should, Could, and Won't. User stories with acceptance criteria. Explicit guards for what is out of scope and what still needs deciding.
-4. **Refine on the canvas.** Move cards, edit them, refine with AI, share for review. Change your mind without starting over.
-5. **Hand off and build.** Export to CLAUDE.md, AGENTS.md, JSON, or Markdown. Claude, Cursor, Lovable, or your team takes it from there.
+3. **Refine on the canvas.** Your scope appears as cards sorted into Must, Should, Could, and Won't, with user stories, what is out of scope, and what still needs deciding. Move cards, edit them, refine with AI, share for review. Change your mind without starting over.
+4. **Hand off and build.** Export, or connect your agent directly. Claude, Cursor, an engineer, a team, or yourself takes it from there.
+
+## Hand it to whatever builds
+
+- **AI coding tools.** Export a `CLAUDE.md` or `AGENTS.md`, or connect Claude Code, Cursor, or Windsurf over MCP and let the agent pull the live scope itself.
+- **Your team.** A full PRD as Word, HTML, or Markdown, with branded templates for teams that need them.
+- **Your tracker.** A Jira-ready CSV with the hierarchy already mapped.
+- **Anything else.** Plain JSON.
 
 ## Why it's different
 
@@ -42,4 +51,6 @@ Everything else either locks you in or was never built for this. The prompt-to-a
 
 ## Where we are
 
-ScopeMap is in active development and getting ready for its first design partners. It is closed source, so there is no code to browse here.
+ScopeMap is live at [scopemap.io](https://scopemap.io). Sign up and your first scopes are free. We are working with early design partners and shipping weekly.
+
+ScopeMap is closed source, so there is no code to browse here.
