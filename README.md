@@ -1,13 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://scopemap.io/images/logo-dark.svg">
-  <img src="https://scopemap.io/images/logo.svg" alt="ScopeMap" width="72">
-</picture>
+<img src="https://scopemap.io/images/icon.svg" alt="ScopeMap compass rose" width="80">
 
 # ScopeMap
 
-### The mapping tool for people who want to build products.
+### The scoping engine for people who want to build products.
 
 **[scopemap.io](https://scopemap.io)** · Live, free to try.
 
